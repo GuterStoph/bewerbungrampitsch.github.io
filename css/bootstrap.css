@@ -5244,7 +5244,7 @@ a.badge-dark:focus, a.badge-dark.focus {
 .jumbotron {
   padding: 2rem 1rem;
   margin-bottom: 2rem;
-  background-image: ../images/header_christoph_krenn.jpg;
+  background-image: url(../images/header_christoph_krenn.jpg)
   background-repeat: no-repeat;
   background-size: 100%;
   border-radius: 0.3rem;
